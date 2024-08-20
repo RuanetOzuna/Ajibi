@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Ajibi</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login_button">Login</string>
+    <string name="nombre">Nombre</string>
+    <string name="precio">Precio</string>
+    <string name="ingredientes">Ingredientes</string>
+    <string name="descripcion">Descripción</string>
+    <string name="calorias">Calorías</string>
+    <string name="guardar">Guardar</string>
+    <string name="agregar">Agregar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="buscar">Buscar platillos</string>
+    <string name="foto">Foto</string>
+    <string name="dont_have_account">Don\'t have account? Create Account</string>
+
+</resources>

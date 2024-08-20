@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "292315858868",
+    "project_id": "ajibimoaibi",
+    "storage_bucket": "ajibimoaibi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292315858868:android:16b353d8e1521b2eb094e1",
+        "android_client_info": {
+          "package_name": "com.moaibi.ajibi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqL-bJ0flzS7wM3h-cnJU9JyDtk8K_LV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
